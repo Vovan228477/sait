@@ -1,0 +1,13 @@
+header {
+    width:1600 ;
+    height: 80;
+}
+
+
+
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    -webkit-animation: none;
+}
