@@ -1,6 +1,11 @@
-header {
-    width:1600 ;
-    height: 80;
+nav {
+    
+    margin: 0;
+    background-color: #FFFFFF;
+    ;
+    display: flex;
+    width:1600px ;
+    top: 80px;
 }
 
 
@@ -9,5 +14,33 @@ ul{
     list-style: none;
     display: flex;
     flex-direction: row;
-    -webkit-animation: none;
+}
+.WebStudio{
+    width:145px ;
+    height:30px ;
+font-family: 'Raleway' ;
+} 
+.Студія{
+    color: #2196F3;
+    ;
+    width:45px ;
+    height:16px ;
+}
+.Портфоліо{
+    color: #212121    ;
+    width:72px ;
+    height: 16px;
+}
+.Контакти{
+    color:#212121
+    ;
+    width:64px ;
+    height: 16px ;
+}
+.infodevstudio-com{
+    color:#2196F3
+    ;
+    width:135px ;
+    height:16px ;
+
 }
